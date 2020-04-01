@@ -1,8 +1,9 @@
 # portfolio
+<br>
 
-2016
-------
-2016.08
+## 2016
+
+### 2016.08
 - 방사선 관제용 서버프로그램(PC)
 
 2016.09
@@ -24,6 +25,7 @@ http://www.robomax.co.kr/
 - 팩토브릿지
 - FromGolf
 
+<br>
 
 2017
 ------
@@ -80,7 +82,7 @@ http://www.clubvivaldi.co.kr/
 http://www.saeroun.net/
 - 새로운교회 한홍목사
 http://hong.saeroun.net/
-
+<br>
 
 2017 외부작업
 ------
@@ -108,15 +110,15 @@ http://mholic.co.kr/
 
 2018.03
 - CTS지사 3type <br>
-  대구 http://daegu.cts.tv/ <br>
-  부산 http://busan.cts.tv/ <br>
-  대전 http://daejeon.cts.tv/ <br>
-  전북 http://jeonbuk.cts.tv/ <br>
-  전남 http://jeonnam.cts.tv/ <br>
-  포항 http://pohang.cts.tv/ <br>
-  울산 http://ulsan.cts.tv/ <br>
-  영서 http://yeongseo.cts.tv/ <br>
-  경남 http://gn.cts.tv/ <br>
+  대구 http://daegu.cts.tv/  
+  부산 http://busan.cts.tv/  
+  대전 http://daejeon.cts.tv/  
+  전북 http://jeonbuk.cts.tv/  
+  전남 http://jeonnam.cts.tv/  
+  포항 http://pohang.cts.tv/  
+  울산 http://ulsan.cts.tv/  
+  영서 http://yeongseo.cts.tv/  
+  경남 http://gn.cts.tv/  
   충북 http://chungbuk.cts.tv/
 - SDS
 - 도쿄술집 / 메인 리뉴얼
