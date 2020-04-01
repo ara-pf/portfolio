@@ -7,7 +7,7 @@
 
 2016.09
 - PRD KOREA
-http://www.prdkorea.com
+<a href="http://www.prdkorea.com" target="_blank">http://www.prdkorea.com</a>
 - ROBOMAX
 http://www.robomax.co.kr/
 
