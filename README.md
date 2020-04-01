@@ -1,6 +1,7 @@
 # portfolio
-   
-2016.08  
+2016
+------
+2016.08
 - 방사선 관제용 서버프로그램(PC)
 
 2016.09
@@ -23,6 +24,7 @@ http://www.robomax.co.kr/
 - FromGolf
 
    
+2017
 ------
 2017.01
 - 북크러쉬 (+ 17.04~17.09)
@@ -77,15 +79,15 @@ http://www.clubvivaldi.co.kr/
 http://www.saeroun.net/
 - 새로운교회 한홍목사
 http://hong.saeroun.net/
-<br>
+   
 
-2017 외부작업
+### 2017 외부작업
 ------
 2017.10
 - 음식물쓰레기 제로단지 http://www.zero-waste.kr/
 
 2017.11~12
-- SSUDAM   
+- SSUDAM (APP)   
 ![image1](./img/SSUDAM01.png)
 ![image2](./img/SSUDAM02.png)
 
@@ -240,7 +242,7 @@ http://www.ckids.co.kr/
 - 뉴테크
 
 2020.02
-- 돕다(MOB)
+- 돕다(APP)
 - 요나 3일 영성원
 
 2020.03
