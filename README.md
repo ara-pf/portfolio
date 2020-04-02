@@ -85,7 +85,7 @@
 #### - 헌법재판소(MOB) (~17.11)   
 ![image1](./img/pf_201710_01_01.png)
 ![image2](./img/pf_201710_01_02.png)
-![image3](./img/pf_201710_01_03.png)
+![image3](./img/pf_201710_01_03.png)    
 　      
 2017.11
 #### - CTS Bible World http://bibleworld.cts.tv
