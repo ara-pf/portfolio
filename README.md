@@ -25,7 +25,7 @@
 ![image2](./img/pf_201611_02_02.png)
 #### - 서울대학교 체육부   
 ![image1](./img/pf_201611_03_01.png)
-![image2](./img/pf_201611_03_02.png)
+![image2](./img/pf_201611_03_02.png)   
 　      
 2016.12
 #### - 무안군방사선(PC)   
@@ -38,7 +38,7 @@
 ![image4](./img/pf_201612_02_04.png)
 #### - FromGolf   
 ![image1](./img/pf_201612_03_01.png)
-![image2](./img/pf_201612_03_02.png)
+![image2](./img/pf_201612_03_02.png)   
 　      
 　      
 2017
@@ -47,7 +47,7 @@
 #### - 북크러쉬 (+ 17.04~17.09) https://www.bookcrush.co.kr
 #### - 꾸꾸루꾸 바베큐   
 ![image1](./img/pf_201701_01_01.png)
-![image2](./img/pf_201701_01_02.png)
+![image2](./img/pf_201701_01_02.png)   
 　      
 2017.02
 #### - 호텔JCS http://www.hoteljcs.kr
@@ -119,7 +119,7 @@
 #### - 창조이엔지 http://www.changjoeng.co.kr
 #### - 크레타  
 ![image1](./img/pf_201801_02_01.png)
-![image2](./img/pf_201801_02_02.png)
+![image2](./img/pf_201801_02_02.png)   
 　      
 2018.02
 #### - 머니홀릭 http://mholic.co.kr
@@ -129,7 +129,7 @@
 ![image3](./img/pf_201802_01_03.png)
 　      
 2018.03
-#### - CTS지사 3type <br>
+#### - CTS지사 3type      
   대구 http://daegu.cts.tv  
   부산 http://busan.cts.tv  
   대전 http://daejeon.cts.tv  
@@ -159,21 +159,31 @@
 #### - 구이가 / 메인리뉴얼 http://92ga.co.kr
 　      
 2018.07
-#### - 시크포베이비
+#### - 시크포베이비  
+![image1](./img/pf_201807_01_01.png)
+![image2](./img/pf_201807_01_02.png)
 　      
 2018.08
-#### - 메가바이오
+#### - 메가바이오  
+![image1](./img/pf_201808_01_01.png)
+![image2](./img/pf_201808_01_02.png)
 #### - 서울부동산정보광장 / 메인 http://land.seoul.go.kr
 　      
 2018.09
-#### - 서울 시유재산 종합정보시스템
+#### - 서울시유재산 종합정보시스템  
+![image1](./img/pf_201809_01_01.png)
+![image2](./img/pf_201809_01_02.png)
 　      
 2018.10
-#### - 경기도 드론스페이스
-#### - 서울 부동산시장동향 분석시스템
+#### - 경기도 드론스페이스  
+![image1](./img/pf_201810_01_01.png)
+![image2](./img/pf_201810_01_02.png)
+#### - 서울부동산시장동향 분석시스템
 　      
 2018.11
-#### - Nbot - NICKS service
+#### - Nbot - NICKS service  
+![image1](./img/pf_201811_01_01.png)
+![image2](./img/pf_201811_01_02.png)
 　      
 2018.12
 #### - 더런드리 http://www.thelaundry.co.kr
@@ -184,7 +194,10 @@
 2019.01
 #### - CTS JOY어린이영어합창단 / 메인 유지보수 http://www.joychoir.org
 #### - 디비시스 http://www.divisys.co.kr
-#### - 주락펴락(MOB) 
+#### - 주락펴락(MOB) / 30%   
+![image1](./img/pf_201901_01_01.png)
+![image2](./img/pf_201901_01_02.png)
+![image3](./img/pf_201901_01_03.png)
 #### - 지로드코리아 리뉴얼 http://www.zroad.co.kr
 　      
 2019.02
@@ -196,7 +209,10 @@
 #### - WIC 웨이크보드강습센터 http://wicctnew.daychurch.co.kr
 　      
 2019.04
-#### - 가베스쿨(MOB)
+#### - 가베스쿨(MOB)   
+![image1](./img/pf_201904_01_01.png)
+![image2](./img/pf_201904_01_02.png)
+![image2](./img/pf_201904_01_03.png)
 #### - 아시아선교신학원 http://amas.zroad.tv
 　      
 2019.05
@@ -208,10 +224,15 @@
 #### - 웨스턴미시건항공교육원 http://aviation.ac
 #### - eduTV http://www.edutv21.com
 
-
 2019.07
-#### - 두란노
-#### - 자탁소
+#### - 포춘에이드/ (~ 19.11) https://www.fortunade.com
+#### - 두란노   
+![image1](./img/pf_201907_01_01.png)
+![image2](./img/pf_201907_01_02.png)
+![image3](./img/pf_201907_01_03.png)
+![image4](./img/pf_201907_01_04.png)
+#### - 자탁소   
+![image1](./img/pf_201907_02_01.png)
 　      
 2019.08
 #### - PHIL INTER PHARMA http://www.philinterpharma.com
@@ -222,13 +243,20 @@
 #### - 진격의부동산 http://jingyeok.com
 　      
 2019.10
-#### - 김남극젓갈
+#### - 김남극젓갈   
+![image1](./img/pf_201910_01_01.png)
+![image2](./img/pf_201910_01_02.png)
 #### - 말하자 http://www.malhaza.com
 #### - 한미교육원 / 메인수정, 서브5 http://www.koramedu.com
-#### - 픽스잇(MOB)
-　      
+　     
 2019.11
-#### - 한국표준협회(PC/MOB/TAB)
+#### - 픽스잇(MOB)   
+![image1](./img/pf_201911_01_01.png)
+![image2](./img/pf_201911_01_02.png)
+![image3](./img/pf_201911_01_03.png)
+#### - 한국표준협회(PC/MOB/TAB)   
+![image1](./img/pf_201911_01_01.png)
+![image2](./img/pf_201911_01_02.png)
 　      
 2019.12
 #### - MyVietnamTV http://vtv.zroad.tv
@@ -242,7 +270,7 @@
 #### - 뉴테크
 　      
 2020.02
-#### - 돕다(MOB)
+#### - 돕다(MOB) / (~ 20.03)
 #### - 요나 3일 영성원
 　      
 2020.03
