@@ -262,8 +262,8 @@
 ![image2](./img/pf_201911_01_02.png)
 ![image3](./img/pf_201911_01_03.png)
 #### - 한국표준협회(PC/MOB/TAB)   
-![image1](./img/pf_201911_01_01.png)
-![image2](./img/pf_201911_01_02.png)    
+![image1](./img/pf_201911_02_01.png)
+![image2](./img/pf_201911_02_02.png) 
 　      
 2019.12
 #### - MyVietnamTV http://vtv.zroad.tv
