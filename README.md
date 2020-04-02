@@ -229,8 +229,6 @@
 #### - 두란노   
 ![image1](./img/pf_201907_01_01.png)
 ![image2](./img/pf_201907_01_02.png)
-![image3](./img/pf_201907_01_03.png)
-![image4](./img/pf_201907_01_04.png)
 #### - 자탁소   
 ![image1](./img/pf_201907_02_01.png)
 　      
