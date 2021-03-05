@@ -282,46 +282,45 @@
 　      
 2020.03
 #### - CTS예술단 http://arthall.ctsart.co.kr/
-
+　      
 2020.04
 #### - 대한투자컨설팅 https://www.koreainv.com/
-
+　      
 2020.06
 #### - DASSO
 ![image1](./img/pf_202006_01_01.png)
 ![image2](./img/pf_202006_01_02.png) 
 #### - ICTWORKS http://www.ictworks.com/
-
+　      
 2020.08
 #### - AYO(MOB) / (~ 21.03)
 ![image1](./img/pf_202008_01_01.png)
 ![image2](./img/pf_202008_01_02.png) 
 #### - JOY Thailand http://www.ctsjt.net/
 #### - 도로 교량 및 터널 현황정보시스템 https://bti.kict.re.kr/bti/publicMain/main.do
-
+　      
 2020.09
 #### - JT친애 왕왕콘테스트
 ![image1](./img/pf_202009_01_01.png)
 ![image2](./img/pf_202009_01_02.png) 
-
+　      
 2020.10
 #### - 부트캠프
 ![image1](./img/pf_202010_01_01.png)
-![image2](./img/pf_202010_01_02.png) 
-
+　      
 2020.11
 #### - LIFE STOCK(admin)
 ![image1](./img/pf_202011_01_01.png)
-
+　      
 2021.12
 #### - CTS성탄
-
-
+　      
+　      
 2021
 ------
 2021.01
 #### - CTS온택트 아카데미 https://www.ctsontact.com/
-
+　      
 2021.02
 #### - CTS K가스펠
 #### - LIFE STOCK
