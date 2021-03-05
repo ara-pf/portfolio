@@ -1,12 +1,4 @@
-# [publisher] portfolio All
-
-##### ALL  https://github.com/ara-pf/portfolio     
-##### 2020 https://github.com/ara-pf/portfolio/blob/master/2020.md     
-##### 2019 https://github.com/ara-pf/portfolio/blob/master/2019.md     
-##### 2018 https://github.com/ara-pf/portfolio/blob/master/2018.md     
-##### 2017 https://github.com/ara-pf/portfolio/blob/master/2017.md     
-##### 2016 https://github.com/ara-pf/portfolio/blob/master/2016.md     
-　   
+# [publisher] portfolio　   
 　   
 　   
 2016
